@@ -1,16 +1,22 @@
-# blood_app_nepal
+# Blood Donor App
 
-A new Flutter application.
+Simple Blood Donation App made using Flutter as a CSR of Your Koseli Nepal. Your Koseli is Nepal's startup working to bring happiness in life of people. In case of this app, User are Logged in using Google Sign In. They can be a donor, search donors or request blood!
 
-## Getting Started
+Your Koseli: www.yourkoseli.com
+APK: https://appsenjoy.com/download/ab9b4cc2f217888d4537917394bf934a.html
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Connect with Me: https://www.linkedin.com/in/itskanchanthings/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## What you will Learn?
+1. Google Signin with Firebase
+2. Firebase CRUD
+3. Location Tracker
+4. StreamBuilder
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## FUNCTIONS
+- User can Login with Gmail
+- User can be a Donor
+- User can add details or edit them
+- User can request blood
+- User can find donors per Location and Blood Group
